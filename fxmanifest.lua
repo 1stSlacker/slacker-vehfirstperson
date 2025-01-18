@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'Slacker'
-description 'Forced First Person Aiming in Vehicles for QB-Core'
-version '1.0.0'
+description 'Forced First Person Aiming in Vehicles and Motorcycles for QB-Core'
+version '1.1.0'
 
 client_script 'main.lua'
